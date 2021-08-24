@@ -1,0 +1,15 @@
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\obj\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\obj\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\obj\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\obj\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.AssemblyInfo.cs
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\obj\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\bin\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.deps.json
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\bin\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.dll
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\bin\Debug\net5.0\ref\EmployeeTimeTrackingDDD.Infrastructure.dll
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\bin\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.pdb
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\bin\Debug\net5.0\EmployeeTimeTrackingDDD.Domain.dll
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\bin\Debug\net5.0\EmployeeTimeTrackingDDD.Domain.pdb
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\obj\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.csproj.CopyComplete
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\obj\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.dll
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\obj\Debug\net5.0\ref\EmployeeTimeTrackingDDD.Infrastructure.dll
+C:\Users\asemenov\source\repos\EmployeeTimeTrackingDDD\Infrastructure\obj\Debug\net5.0\EmployeeTimeTrackingDDD.Infrastructure.pdb

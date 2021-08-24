@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "EmployeeTimeTrackingDDD\Api.csproj", "{B5A07A4C-3ABB-4F6F-B987-256722213B42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTimeTrackingDDD.Api", "EmployeeTimeTrackingDDD\EmployeeTimeTrackingDDD.Api.csproj", "{B5A07A4C-3ABB-4F6F-B987-256722213B42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{3BF9F9A7-338D-43DA-AE48-77E5381B7AC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTimeTrackingDDD.Domain", "Domain\EmployeeTimeTrackingDDD.Domain.csproj", "{3BF9F9A7-338D-43DA-AE48-77E5381B7AC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{6FA9C98C-8B24-457D-AE2B-14A597A97FA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeTimeTrackingDDD.Infrastructure", "Infrastructure\EmployeeTimeTrackingDDD.Infrastructure.csproj", "{6FA9C98C-8B24-457D-AE2B-14A597A97FA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
